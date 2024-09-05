@@ -1,5 +1,5 @@
 {
-    "name": "craftcamp/php-abac",
+    "name": "andrii-hrechyn/php-abac",
     "description": "Library used to implement Attribute-Based Access Control in a PHP application",
     "type": "library",
     "keywords": ["access-control", "attributes", "security"],
@@ -15,8 +15,8 @@
     "require": {
         "php": ">=7.0",
         "psr/cache": "~1.0",
-        "symfony/config": "~3.0|^4.0",
-        "symfony/yaml" : "~3.0|^4.0"
+        "symfony/config": "~3.0|^4.0|^6.2",
+        "symfony/yaml" : "~3.0|^4.0|^6.2"
     },
     "support": {
         "email": "kern046@gmail.com"
